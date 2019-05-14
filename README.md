@@ -4,9 +4,7 @@ Build docker image:
 ==================
 sudo docker build --tag backend-server:latest .
 
-Run docker image:
-================
-sudo docker run --name backend-server -p 8084:8084 backend-server:latest
+Run docker image: sudo docker run --name backend-server -p 8084:8084 backend-server:latest
 
 Subcriber for CarStatus:
 =======================
