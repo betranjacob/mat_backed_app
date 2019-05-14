@@ -21,7 +21,7 @@ python3 gpu_source_simulator.py
 
 
 ### Command to view container logs:
-sudo docker logs -f <container-id>
+sudo docker logs -f container-id
 
 
 
